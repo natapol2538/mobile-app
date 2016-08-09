@@ -3,8 +3,7 @@
 
 ## ทดลอง
 * Local Notification
-* Push Notification
- 
 
-## สร้างโดย 
+
+## สร้างโดย
 [ณฐพล ชั้นประดับ](https://www.facebook.com/numenz)
